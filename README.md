@@ -26,6 +26,12 @@ A sleek and responsive **Body Mass Index (BMI) Calculator** built using **HTML, 
 
 ---
 
+## 🌐 Live Preview
+
+![Live Preview](https://rameenramzan.github.io/BMI-Calculator/)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML5** – Markup structure
