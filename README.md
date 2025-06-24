@@ -21,7 +21,8 @@ A sleek and responsive **Body Mass Index (BMI) Calculator** built using **HTML, 
 
 ## 📷 Preview
 
-![BMI Calculator Screenshot](![ss](https://github.com/user-attachments/assets/964992c5-3d1d-4075-bb55-1f9f2693a7a2))
+![ss](https://github.com/user-attachments/assets/f7add4d5-1d44-4b4b-b884-bfe871a392e8)
+
 
 ---
 
