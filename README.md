@@ -79,7 +79,7 @@ The calculator adapts beautifully to different screen sizes:
 
 ---
 
-## 🧑‍💻 Author
+## 💻 Author
 
 **Rameen Ramzan**
 
